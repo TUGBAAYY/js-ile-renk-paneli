@@ -49,10 +49,7 @@ body{
         width: 100vw;
     }
     
-    /* .card:nth-of-type(4),
-    .card:nth-of-type(5) {
-        display: none;
-    } */
+    
     
     .container .card h3 {
         display: none;
